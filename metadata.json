@@ -1,0 +1,6 @@
+{
+  "name": "Daily Hisab",
+  "description": "Daily expense and income tracker in Bengali and English with local SQLite database, reports, and categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
